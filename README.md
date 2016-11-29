@@ -18,10 +18,5 @@ Javascript Tutorials:
 - [ ] Node.js Basics
 - [ ] JQuery Basics
 - [ ] Build a Simple Dynamic Site with Node.js
-- [ ] npm Basics
-- [ ] Express Basics
-- [ ] Deploy a Node Application to Heroku
-- [ ] JavaScript Unit Testing
-- [ ] Build a REST API with Express
-- [ ] The Module Pattern in JavaScript
+
 
