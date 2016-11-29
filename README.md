@@ -18,5 +18,6 @@ Javascript Tutorials:
 - [ ] Node.js Basics
 - [ ] JQuery Basics
 - [ ] Build a Simple Dynamic Site with Node.js
+- [ ] npm Basics
 
 
