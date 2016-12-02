@@ -12,12 +12,12 @@ Well now you can get an AWESOME, SOLID FOUNDATION to help you with this journey.
 ## Specifications
 
 Javascript Tutorials:
-- [ ] Programming Step-by-Step: Object-Oriented JavaScript
-- [ ] JavaScript Basics
-- [ ] JavaScript Loops, Arrays and Objects
+- [X] Programming Step-by-Step: Object-Oriented JavaScript
+- [X] JavaScript Basics
+- [x] JavaScript Loops, Arrays and Objects
 - [ ] Node.js Basics
 - [ ] JQuery Basics
-- [ ] Build a Simple Dynamic Site with Node.js
+- [X] Build a Simple Dynamic Site with Node.js
 - [ ] npm Basics
 
 
