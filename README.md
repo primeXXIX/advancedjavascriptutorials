@@ -16,7 +16,7 @@ Javascript Tutorials:
 - [X] JavaScript Basics
 - [x] JavaScript Loops, Arrays and Objects
 - [X] Node.js Basics
-- [ ] JQuery Basics
+- [x] JQuery Basics
 - [X] Build a Simple Dynamic Site with Node.js
 - [X] npm Basics
 
